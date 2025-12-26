@@ -1,0 +1,18 @@
+gain user input - 
+
+convert userinput to base64 -
+
+reverse base64 - 
+
+validate if all characters are still in the string -
+
+unreversed all of that -
+
+decode unreversed base64 -
+
+read the unreversed -
+
+
+
+
+
